@@ -1,0 +1,107 @@
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Formulation%20Tool;Principal=Group;Name=Product Data Steward;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Data Steward : Class: Formulation Tool
+Checking Access for Role: Product Data Steward | OnClass: Formulation Tool
+Existing Action
+Executing the Update Security Access block
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363445354346443945314139323444453036333142363533313041344537360000003E31363445354346443945314139323444453036333142363533313041344537363A6E756C6C3A466F726D756C6174696F6E20546F6F6C3A474F534141533A
+Access Updated for Role: Product Data Steward : Class: Formulation Tool
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=A1-Product%20Code;Principal=Group;Name=Product Manager;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Manager : Class: A1-Product Code
+Checking Access for Role: Product Manager | OnClass: A1-Product Code
+Existing Action
+Executing the Update Security Access block
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363445354237424634313645343534453036333143363533313041363236430000003D31363445354237424634313645343534453036333143363533313041363236433A6E756C6C3A41312D50726F6475637420436F64653A474F534141533A
+Access Updated for Role: Product Manager : Class: A1-Product Code
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Ingredient;Principal=Group;Name=Product Data Steward;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Data Steward : Class: Ingredient
+Checking Access for Role: Product Data Steward | OnClass: Ingredient
+Existing Action
+Executing the Update Security Access block
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363531414143413739464331374637453036333142363533313041363745440000003831363531414143413739464331374637453036333142363533313041363745443A6E756C6C3A496E6772656469656E743A474F534141533A
+400 Client Error: Bad Request for url: https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363531414143413739464331374637453036333142363533313041363745440000003831363531414143413739464331374637453036333142363533313041363745443A6E756C6C3A496E6772656469656E743A474F534141533A
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Ingredient;Principal=Group;Name=Product Manager;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Manager : Class: Ingredient
+Checking Access for Role: Product Manager | OnClass: Ingredient
+Existing Action
+Executing the Update Security Access block
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363546334138453439304437323731453036333143363533313041303644320000003831363546334138453439304437323731453036333143363533313041303644323A6E756C6C3A496E6772656469656E743A474F534141533A
+400 Client Error: Bad Request for url: https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363546334138453439304437323731453036333143363533313041303644320000003831363546334138453439304437323731453036333143363533313041303644323A6E756C6C3A496E6772656469656E743A474F534141533A
+Execution of Code Completed.
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Formulation%20Tool;Principal=Group;Name=Product Data Steward;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Data Steward : Class: Formulation Tool
+Checking Access for Role: Product Data Steward | OnClass: Formulation Tool
+Existing Action
+Executing the Update Security Access block
+{'ObjectName': 'Item', 'InstanceType': 'SET', 'Principal': 'Group', 'Name': 'Product Data Steward', 'OrganizationCode': 'GOSAAS', 'ItemClass': 'Formulation Tool', 'Actions': '', 'ItemEFFActions': 'Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV'}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363445354346443945314139323444453036333142363533313041344537360000003E31363445354346443945314139323444453036333142363533313041344537363A6E756C6C3A466F726D756C6174696F6E20546F6F6C3A474F534141533A
+Access Updated for Role: Product Data Steward : Class: Formulation Tool
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=A1-Product%20Code;Principal=Group;Name=Product Manager;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Manager : Class: A1-Product Code
+Checking Access for Role: Product Manager | OnClass: A1-Product Code
+Existing Action
+Executing the Update Security Access block
+{'ObjectName': 'Item', 'InstanceType': 'SET', 'Principal': 'Group', 'Name': 'Product Manager', 'OrganizationCode': 'GOSAAS', 'ItemClass': 'A1-Product Code', 'Actions': '', 'ItemEFFActions': 'Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV'}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363445354237424634313645343534453036333143363533313041363236430000003D31363445354237424634313645343534453036333143363533313041363236433A6E756C6C3A41312D50726F6475637420436F64653A474F534141533A
+Access Updated for Role: Product Manager : Class: A1-Product Code
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Ingredient;Principal=Group;Name=Product Data Steward;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Data Steward : Class: Ingredient
+Checking Access for Role: Product Data Steward | OnClass: Ingredient
+Existing Action
+Executing the Update Security Access block
+{'ObjectName': 'Item', 'InstanceType': 'SET', 'Principal': 'Group', 'Name': 'Product Data Steward', 'OrganizationCode': 'GOSAAS', 'ItemClass': 'Ingredient', 'Actions': '', 'ItemEFFActions': ''}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363531414143413739464331374637453036333142363533313041363745440000003831363531414143413739464331374637453036333142363533313041363745443A6E756C6C3A496E6772656469656E743A474F534141533A
+400 Client Error: Bad Request for url: https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363531414143413739464331374637453036333142363533313041363745440000003831363531414143413739464331374637453036333142363533313041363745443A6E756C6C3A496E6772656469656E743A474F534141533A
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Ingredient;Principal=Group;Name=Product Manager;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Manager : Class: Ingredient
+Checking Access for Role: Product Manager | OnClass: Ingredient
+Existing Action
+Executing the Update Security Access block
+{'ObjectName': 'Item', 'InstanceType': 'SET', 'Principal': 'Group', 'Name': 'Product Manager', 'OrganizationCode': 'GOSAAS', 'ItemClass': 'Ingredient', 'Actions': '', 'ItemEFFActions': ''}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363546334138453439304437323731453036333143363533313041303644320000003831363546334138453439304437323731453036333143363533313041303644323A6E756C6C3A496E6772656469656E743A474F534141533A
+400 Client Error: Bad Request for url: https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363546334138453439304437323731453036333143363533313041303644320000003831363546334138453439304437323731453036333143363533313041303644323A6E756C6C3A496E6772656469656E743A474F534141533A
+Execution of Code Completed.
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Formulation%20Tool;Principal=Group;Name=Product Data Steward;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Data Steward : Class: Formulation Tool
+Checking Access for Role: Product Data Steward | OnClass: Formulation Tool
+Existing Action
+Executing the Update Security Access block
+{'Actions': '', 'ItemEFFActions': 'Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV'}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363445354346443945314139323444453036333142363533313041344537360000003E31363445354346443945314139323444453036333142363533313041344537363A6E756C6C3A466F726D756C6174696F6E20546F6F6C3A474F534141533A
+Access Updated for Role: Product Data Steward : Class: Formulation Tool
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=A1-Product%20Code;Principal=Group;Name=Product Manager;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Manager : Class: A1-Product Code
+Checking Access for Role: Product Manager | OnClass: A1-Product Code
+Existing Action
+Executing the Update Security Access block
+{'Actions': '', 'ItemEFFActions': 'Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV'}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363445354237424634313645343534453036333143363533313041363236430000003D31363445354237424634313645343534453036333143363533313041363236433A6E756C6C3A41312D50726F6475637420436F64653A474F534141533A
+Access Updated for Role: Product Manager : Class: A1-Product Code
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Ingredient;Principal=Group;Name=Product Data Steward;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Data Steward : Class: Ingredient
+Checking Access for Role: Product Data Steward | OnClass: Ingredient
+Existing Action
+Executing the Update Security Access block
+{'Actions': '', 'ItemEFFActions': ''}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363531414143413739464331374637453036333142363533313041363745440000003831363531414143413739464331374637453036333142363533313041363745443A6E756C6C3A496E6772656469656E743A474F534141533A
+400 Client Error: Bad Request for url: https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363531414143413739464331374637453036333142363533313041363745440000003831363531414143413739464331374637453036333142363533313041363745443A6E756C6C3A496E6772656469656E743A474F534141533A
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com/fscmRestApi/resources/latest/productManagementDataSecurities?q=ObjectName=Item;ItemClass=Ingredient;Principal=Group;Name=Product Manager;OrganizationCode=GOSAAS;InheritedFlag=false
+Started executing code for Role: Product Manager : Class: Ingredient
+Checking Access for Role: Product Manager | OnClass: Ingredient
+Existing Action
+Executing the Update Security Access block
+{'Actions': '', 'ItemEFFActions': ''}
+Update link
+https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363546334138453439304437323731453036333143363533313041303644320000003831363546334138453439304437323731453036333143363533313041303644323A6E756C6C3A496E6772656469656E743A474F534141533A
+400 Client Error: Bad Request for url: https://fa-etia-test-saasfaprod1.fa.ocs.oraclecloud.com:443/fscmRestApi/resources/11.13.18.05/productManagementDataSecurities/0003000000044974656D0000002031363546334138453439304437323731453036333143363533313041303644320000003831363546334138453439304437323731453036333143363533313041303644323A6E756C6C3A496E6772656469656E743A474F534141533A
+Execution of Code Completed.

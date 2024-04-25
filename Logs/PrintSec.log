@@ -1,0 +1,7 @@
+No existing Security defined for Role Configuration on Class A1-Product%20Code on Organization 000
+Item~Group~Formulation Tool~Product Data Steward~None~Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV~GOSAAS~False
+Item~Group~A1-Product Code~Product Manager~None~Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV~GOSAAS~False
+No existing Security defined for Role Configuration on Class Ingredient on Organization 000
+Item~Group~Ingredient~Product Data Steward~None~Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV~GOSAAS~False
+Item~Group~Ingredient~Product Data Steward~None~Edit | Edit_Test | ORA_HC_EFF_EDIT_PRIV | ORA_HC_EFF_VIEW_PRIV~GOSAAS~True
+Item~Group~Ingredient~Product Manager~None~Read~GOSAAS~False
